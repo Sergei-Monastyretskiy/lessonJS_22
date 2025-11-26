@@ -20,7 +20,7 @@
 
 1. **Клонуйте репозиторій:**
    ```bash
-   git clone <URL_вашого_репозиторію>
+   git clone https://github.com/Sergei-Monastyretskiy/lessonJS_22.git
    cd my-react-app
    ```
 
